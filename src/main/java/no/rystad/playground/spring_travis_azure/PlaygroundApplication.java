@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class TravisAzurePlaygroundApplication {
+public class PlaygroundApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(TravisAzurePlaygroundApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(PlaygroundApplication.class, args);
+    }
 
 }
